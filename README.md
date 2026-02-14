@@ -1,4 +1,4 @@
-## 📝 Trivia Game Simple Note Taking App
+## 📝 Simple Note Taking App
 As the name implies this is a simple note taking app that I made as my final project for the Java II class. 
 ## ✨ Technologies
 - Java

@@ -14,7 +14,7 @@ application.
 - View previous notes
 ## 📌 The Reason
 I made this simple note taking application for my Java II class final project to showcase what I had learned about Java during the length of the class. The main goals for this application was to show off my knowledge of classes, inheritance, polymorphism, encapsulation, abstraction, file input and output processing, recursion, and exception handling.
-## 👀 Preview
+## 🎬 Video
 <ins>_Please use CTRL+click on thumbnail below to open in a new tab_</ins>
 
 [![Simple Note Taking App Java Final Video](https://github.com/user-attachments/assets/acb39abb-b24d-45b3-9720-c838756233c8)](https://www.youtube.com/watch?v=LytuYijgsxs&t=2s)

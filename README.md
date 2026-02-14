@@ -1,5 +1,5 @@
 ## 📝 Trivia Game Simple Note Taking App
-
+As the name implies this is a simple note taking app that I made as my final project for the Java II class. 
 ## ✨ Technologies
 - Java
 - CLI (Command Line Interface)
@@ -14,4 +14,4 @@
 ## 👀 Preview
 <ins>_Please use CTRL+click on thumbnail below to open in a new tab_</ins>
 
-[![Simple Note Taking App Java Final Video](https://github.com/user-attachments/assets/a918fa11-6e10-48d5-8c76-3a5a14c55f2a)](https://www.youtube.com/watch?v=LytuYijgsxs&t=2s)
+[![Simple Note Taking App Java Final Video](https://github.com/user-attachments/assets/acb39abb-b24d-45b3-9720-c838756233c8)](https://www.youtube.com/watch?v=LytuYijgsxs&t=2s)

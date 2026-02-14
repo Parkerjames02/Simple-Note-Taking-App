@@ -1,5 +1,8 @@
 ## 📝 Simple Note Taking App
-As the name implies this is a simple note taking app that I made as my final project for the Java II class. 
+As the name implies this is a simple note taking app that I made in Java with a command line interface. It allows the user to
+login as a user (the only user information is my own) or login a guest and enter their own personal information before
+presenting the user with the option of creating new notes, editing or appending old notes, view previous notes, or exiting the
+application.
 ## ✨ Technologies
 - Java
 - CLI (Command Line Interface)

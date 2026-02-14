@@ -13,7 +13,7 @@ application.
 - Edit previous notes
 - View previous notes
 ## 📌 The Reason
-
+I made this simple note taking application for my Java II class final project to showcase what I had learned about Java during the length of the class. The main goals for this application was to show off my knowledge of classes, inheritance, polymorphism, encapsulation, abstraction, file input and output processing, recursion, and exception handling.
 ## 👀 Preview
 <ins>_Please use CTRL+click on thumbnail below to open in a new tab_</ins>
 
